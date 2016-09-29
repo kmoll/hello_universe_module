@@ -1,0 +1,17 @@
+{
+  "name": "drupal/hello-universe",
+  "description": "Awesome module that does alot of things.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Kevin Moll",
+      "email": "kevinm@appnovation.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "kmoll/hello-universe": "~1.0"
+  }
+}

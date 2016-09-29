@@ -1,0 +1,6 @@
+name: Hello Universe
+type: module
+description: 'Demo module for Drupal Dublin Composer talk.'
+package: Custom
+version: VERSION
+core: 8.x
